@@ -1,0 +1,85 @@
+
+Book: Silverlicious 0061781231 hardcover, Price: 17.99, Stock: 20
+Book: Strengths Finder 159562015X hardcover, Price: 24.95, Stock: 0
+Book: Heaven is for Real 0849946158 paperback, Price: 16.99, Stock: 5
+Book: Veganist 1602861331 hardcover, Price: 25.00, Stock: 1
+Book: Tick Tock 0316037915 hardcover, Price: 17.99, Stock: 12
+Book: Unbroken 1400064163 hardcover, Price: 27.00, Stock: 5
+Book: Cancer 0978806506 paperback, Price: 32.95, Stock: 2
+Book: In the Blink of an Eye 1401324312 hardcover, Price: 24.99, Stock: 0
+Book: The 5 Love Languages 0802473156 paperback, Price: 14.99, Stock: 2
+Book: Battle Hymn of the Tiger ... 1594202842 hardcover, Price: 25.95, Stock: 4
+Book: Battle Hymn of the Tiger ... 1101475455 ebook, Price: 12.99, Stock: 1
+Book: Known and Unknown 159523067X hardcover, Price: 36.00, Stock: 15
+Book: The Girl Who Kicked Over ... 030726999X hardcover, Price: 27.95, Stock: 25
+Book: Moon Over Manifest 0385738838 hardcover, Price: 16.99, Stock: 3
+Book: West of Her 1565129520 hardcover, Price: 24.95, Stock: 0
+Book: Lord of Misrule 0929701836 hardcover, Price: 25.00, Stock: 1
+Book: Water for Elephants 0123456789 ebook, Price: 5.00, Stock: 2
+Book: The 4-Hour Body 030746363X hardcover, Price: 27.00, Stock: 1
+Book: The Lean belly Prescription 1609610237 hardcover, Price: 24.99, Stock: 3
+Book: The Investment Answer 1455503304 hardcover, Price: 18.00, Stock: 2
+
+Stock for book Battle Hymn of the Tiger ... 1101475455 ebook increased from 1 to 5
+Order filled for customer 203846 for 2 copies of book Cancer 0978806506 paperback
+Back order for customer 203846 for 2 copies of book Cancer 0978806506 paperback
+Back order for customer 501656 for 1 copy of book In the Blink of an Eye 1401324312 hardcover
+Order filled for customer 153302 for 2 copies of book Heaven is for Real 0849946158 paperback
+Order filled for customer 153302 for 1 copy of book Lord of Misrule 0929701836 hardcover
+Back order for customer 153302 for 3 copies of book Lord of Misrule 0929701836 hardcover
+Order filled for customer 153302 for 4 copies of book Tick Tock 0316037915 hardcover
+Stock for book Lord of Misrule 0929701836 hardcover increased from 0 to 10
+Back order filled for customer 153302 for 3 copies of book Lord of Misrule 0929701836 hardcover
+Order filled for customer 422099 for 1 copy of book The 4-Hour Body 030746363X hardcover
+Back order for customer 422099 for 11 copies of book The 4-Hour Body 030746363X hardcover
+Order filled for customer 599930 for 5 copies of book Silverlicious 0061781231 hardcover
+Order filled for customer 422099 for 5 copies of book Lord of Misrule 0929701836 hardcover
+Order filled for customer 558432 for 2 copies of book Lord of Misrule 0929701836 hardcover
+Back order for customer 558432 for 10 copies of book Lord of Misrule 0929701836 hardcover
+Back order for customer 659023 for 6 copies of book Lord of Misrule 0929701836 hardcover
+Stock for book Lord of Misrule 0929701836 hardcover increased from 0 to 15
+Back order filled for customer 558432 for 10 copies of book Lord of Misrule 0929701836 hardcover
+Back order filled for customer 659023 for 5 copies of book Lord of Misrule 0929701836 hardcover
+Stock for book Tick Tock 0316037915 hardcover increased from 8 to 16
+Back order for customer 605432 for 3 copies of book West of Her 1565129520 hardcover
+Order filled for customer 605432 for 3 copies of book Unbroken 1400064163 hardcover
+Order filled for customer 605432 for 3 copies of book Battle Hymn of the Tiger ... 1101475455 ebook
+Order filled for customer 501656 for 1 copy of book Veganist 1602861331 hardcover
+Back order for customer 501656 for 3 copies of book Veganist 1602861331 hardcover
+Stock for book Lord of Misrule 0929701836 hardcover increased from 0 to 12
+Back order filled for customer 659023 for 1 copy of book Lord of Misrule 0929701836 hardcover
+
+Book: Silverlicious 0061781231 hardcover, Price: 17.99, Stock: 15
+Book: Strengths Finder 159562015X hardcover, Price: 24.95, Stock: 0
+Book: Heaven is for Real 0849946158 paperback, Price: 16.99, Stock: 3
+Book: Veganist 1602861331 hardcover, Price: 25.00, Stock: 0
+Backorders:
+  customer: 501656, amount: 3
+Book: Tick Tock 0316037915 hardcover, Price: 17.99, Stock: 16
+Book: Unbroken 1400064163 hardcover, Price: 27.00, Stock: 2
+Book: Cancer 0978806506 paperback, Price: 32.95, Stock: 0
+Backorders:
+  customer: 203846, amount: 2
+Book: In the Blink of an Eye 1401324312 hardcover, Price: 24.99, Stock: 0
+Backorders:
+  customer: 501656, amount: 1
+Book: The 5 Love Languages 0802473156 paperback, Price: 14.99, Stock: 2
+Book: Battle Hymn of the Tiger ... 1594202842 hardcover, Price: 25.95, Stock: 4
+Book: Battle Hymn of the Tiger ... 1101475455 ebook, Price: 12.99, Stock: 2
+Book: Known and Unknown 159523067X hardcover, Price: 36.00, Stock: 15
+Book: The Girl Who Kicked Over ... 030726999X hardcover, Price: 27.95, Stock: 25
+Book: Moon Over Manifest 0385738838 hardcover, Price: 16.99, Stock: 3
+Book: West of Her 1565129520 hardcover, Price: 24.95, Stock: 0
+Backorders:
+  customer: 605432, amount: 3
+Book: Lord of Misrule 0929701836 hardcover, Price: 25.00, Stock: 11
+Book: Water for Elephants 0123456789 ebook, Price: 5.00, Stock: 2
+Book: The 4-Hour Body 030746363X hardcover, Price: 27.00, Stock: 0
+Backorders:
+  customer: 422099, amount: 11
+Book: The Lean belly Prescription 1609610237 hardcover, Price: 24.99, Stock: 3
+Book: The Investment Answer 1455503304 hardcover, Price: 18.00, Stock: 2
+
+
+Total value of orders filled is $1108.76
+

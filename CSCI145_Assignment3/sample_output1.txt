@@ -1,0 +1,21 @@
+
+Book: Silverlicious 0061781231 hardcover, Price: 17.99, Stock: 20
+Book: Strengths Finder 159562015X hardcover, Price: 24.95, Stock: 0
+
+Order filled for customer 599930 for 5 copies of book Silverlicious 0061781231 hardcover
+Back order for customer 422099 for 12 copies of book Strengths Finder 159562015X hardcover
+Stock for book Strengths Finder 159562015X hardcover increased from 0 to 6
+Back order filled for customer 422099 for 6 copies of book Strengths Finder 159562015X hardcover
+Back order for customer 123456 for 8 copies of book Strengths Finder 159562015X hardcover
+Stock for book Strengths Finder 159562015X hardcover increased from 0 to 12
+Back order filled for customer 422099 for 6 copies of book Strengths Finder 159562015X hardcover
+Back order filled for customer 123456 for 6 copies of book Strengths Finder 159562015X hardcover
+
+Book: Silverlicious 0061781231 hardcover, Price: 17.99, Stock: 15
+Book: Strengths Finder 159562015X hardcover, Price: 24.95, Stock: 0
+Backorders:
+  customer: 123456, amount: 2
+
+
+Total value of orders filled is $539.05
+
